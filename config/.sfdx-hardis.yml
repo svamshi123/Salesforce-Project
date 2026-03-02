@@ -1,0 +1,6 @@
+projectName: salesforcedeployment
+developmentBranch: Integration
+autoCleanTypes:
+  - destructivechanges
+  - flowPositions
+  - minimizeProfiles
