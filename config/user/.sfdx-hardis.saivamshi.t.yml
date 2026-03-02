@@ -2,3 +2,5 @@ installedApps:
   - openssl
   - git
 userEmail: saivamshiadb@gmail.com
+localStorageBranchTargets:
+  feature/VAM-02: Integration
