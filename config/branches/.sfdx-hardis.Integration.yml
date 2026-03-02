@@ -1,0 +1,4 @@
+mergeTargets:
+  - UAT
+targetUsername: sai_assignment@psl.com
+instanceUrl: https://saiassignment-dev-ed.my.salesforce.com
